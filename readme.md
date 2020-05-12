@@ -33,6 +33,7 @@ These are utilities for doing unusual things with Twine, from exporting stories 
 These are utilities to help integrate Twine with non-Twine things. 
 
 + [Bitsy in Twine](https://gist.github.com/mathphreak/04e35a4a21902e5e5f8a5c283f6a8795) - A python script for getting [Bitsy](https://ledoux.itch.io/bitsy) to play nicely with Twine.
++ [Dynamic Avatar Drawer](http://perplexedpeach.gitlab.io/dynamic-avatar-drawer/twine_guide.html) - A system for dynamic avatar creation within your Twine game.
 
 ## Specifications
 
