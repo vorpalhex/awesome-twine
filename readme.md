@@ -1,5 +1,7 @@
 # Awesome Twine
-_An unofficial list of the best of the twine ecosystem._
+_An unofficial list of the best of the twine ecosystem with a focus on small community projects._
+
+Looking for a much longer way more official list with a lot more details? Check out the extensive [resourcelist at twinelab](https://resources.twinelab.net/)!
 
 ## Compilers
 
